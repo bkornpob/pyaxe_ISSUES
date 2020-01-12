@@ -12,4 +12,6 @@ Cases of some issues with pyaxe
     - In the first figure, dotted lines are the pyaxe outputs from each individual frame. We notice spikes (mainly fainter than the median values). Is this because of bad pixels? Can we handle the data in a different way that can reduce this issue?
     
     - The second figure shows the ratio between STANDARD and MEDIAN (of each sequence). The results show significant discrepancy between the STANDARD and the pyaxe outputs. What would be the cause of this?
+    
+  This issue links to (this ticket)[https://github.com/spacetelescope/pyaxe/issues/8).
   
