@@ -1,0 +1,972 @@
+APERTURE 27
+  BEAM A
+     REFPIXEL27A 734.039 11.174 				;Aperture 27, BEAM A Reference Pixel.
+     CORNERS27A  749 5 930 6 929 22 748 20 		;Aperture 27, BEAM A Aperture Coordinates.
+     CURVE27A    1 1.902e+00 6.050e-03			;Aperture 27, BEAM A Trace description.
+     WIDTH27A    5.745 					;Aperture 27, BEAM A Object Half Width.
+     ORIENT27A   -89.653 					;Aperture 27, BEAM A Object Orientation.
+     SLITGEOM27A 1.94 -104.52 2.03 1.96 		; Aperture 27, BEAM A Object Orientation.
+     AWIDTH27A   2.228 						;Aperture 27, BEAM A Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH27A   1.707 						;Aperture 27, BEAM A Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT27A  33.056 						;Aperture 27, BEAM A Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX27A     1.53690e+04 2.88941e-19		;Aperture 27, BEAM A Flux values.
+     IGNORE27A   0  					;Aperture 27, BEAM A ignore this beam.
+  BEAM END
+  BEAM B
+     REFPIXEL27B 734.039 11.174 				;Aperture 27, BEAM B Reference Pixel.
+     CORNERS27B  527 3 557 3 557 19 527 19 		;Aperture 27, BEAM B Aperture Coordinates.
+     CURVE27B    0 4.978e-01			;Aperture 27, BEAM B Trace description.
+     WIDTH27B    5.723 					;Aperture 27, BEAM B Object Half Width.
+     ORIENT27B   -90.000 					;Aperture 27, BEAM B Object Orientation.
+     SLITGEOM27B 1.94 -104.89 2.03 1.96 		; Aperture 27, BEAM B Object Orientation.
+     AWIDTH27B   2.228 						;Aperture 27, BEAM B Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH27B   1.707 						;Aperture 27, BEAM B Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT27B  33.056 						;Aperture 27, BEAM B Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX27B     1.53690e+04 2.88941e-19		;Aperture 27, BEAM B Flux values.
+     IGNORE27B   0  					;Aperture 27, BEAM B ignore this beam.
+  BEAM END
+  BEAM C
+     REFPIXEL27C 734.039 11.174 				;Aperture 27, BEAM C Reference Pixel.
+     CORNERS27C  944 6 1204 7 1204 23 944 22 		;Aperture 27, BEAM C Aperture Coordinates.
+     CURVE27C    1 2.238e+00 4.207e-03			;Aperture 27, BEAM C Trace description.
+     WIDTH27C    5.738 					;Aperture 27, BEAM C Object Half Width.
+     ORIENT27C   -89.759 					;Aperture 27, BEAM C Object Orientation.
+     SLITGEOM27C 1.94 -104.63 2.03 1.96 		; Aperture 27, BEAM C Object Orientation.
+     AWIDTH27C   2.228 						;Aperture 27, BEAM C Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH27C   1.707 						;Aperture 27, BEAM C Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT27C  33.056 						;Aperture 27, BEAM C Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX27C     1.53690e+04 2.88941e-19		;Aperture 27, BEAM C Flux values.
+     IGNORE27C   0  					;Aperture 27, BEAM C ignore this beam.
+  BEAM END
+  BEAM D
+     REFPIXEL27D 734.039 11.174 				;Aperture 27, BEAM D Reference Pixel.
+     CORNERS27D  1204 9 1454 10 1453 26 1203 24 		;Aperture 27, BEAM D Aperture Coordinates.
+     CURVE27D    1 2.966e+00 5.734e-03			;Aperture 27, BEAM D Trace description.
+     WIDTH27D    5.744 					;Aperture 27, BEAM D Object Half Width.
+     ORIENT27D   -89.671 					;Aperture 27, BEAM D Object Orientation.
+     SLITGEOM27D 1.94 -104.54 2.03 1.96 		; Aperture 27, BEAM D Object Orientation.
+     AWIDTH27D   2.228 						;Aperture 27, BEAM D Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH27D   1.707 						;Aperture 27, BEAM D Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT27D  33.056 						;Aperture 27, BEAM D Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX27D     1.53690e+04 2.88941e-19		;Aperture 27, BEAM D Flux values.
+     IGNORE27D   0  					;Aperture 27, BEAM D ignore this beam.
+  BEAM END
+  BEAM E
+     REFPIXEL27E 734.039 11.174 				;Aperture 27, BEAM E Reference Pixel.
+     CORNERS27E  159 0 364 2 363 17 158 16 		;Aperture 27, BEAM E Aperture Coordinates.
+     CURVE27E    1 2.434e+00 9.328e-03			;Aperture 27, BEAM E Trace description.
+     WIDTH27E    5.757 					;Aperture 27, BEAM E Object Half Width.
+     ORIENT27E   -89.466 					;Aperture 27, BEAM E Object Orientation.
+     SLITGEOM27E 1.94 -104.31 2.03 1.96 		; Aperture 27, BEAM E Object Orientation.
+     AWIDTH27E   2.228 						;Aperture 27, BEAM E Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH27E   1.707 						;Aperture 27, BEAM E Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT27E  33.056 						;Aperture 27, BEAM E Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX27E     1.53690e+04 2.88941e-19		;Aperture 27, BEAM E Flux values.
+     IGNORE27E   0  					;Aperture 27, BEAM E ignore this beam.
+  BEAM END
+  BEAM F
+     REFPIXEL27F 734.039 11.174 				;Aperture 27, BEAM F Reference Pixel.
+     CORNERS27F  1234 9 1854 12 1853 28 1233 24 		;Aperture 27, BEAM F Aperture Coordinates.
+     CURVE27F    1 2.966e+00 5.734e-03			;Aperture 27, BEAM F Trace description.
+     WIDTH27F    5.744 					;Aperture 27, BEAM F Object Half Width.
+     ORIENT27F   -89.671 					;Aperture 27, BEAM F Object Orientation.
+     SLITGEOM27F 1.94 -104.54 2.03 1.96 		; Aperture 27, BEAM F Object Orientation.
+     AWIDTH27F   2.228 						;Aperture 27, BEAM F Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH27F   1.707 						;Aperture 27, BEAM F Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT27F  33.056 						;Aperture 27, BEAM F Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX27F     1.53690e+04 2.88941e-19		;Aperture 27, BEAM F Flux values.
+     IGNORE27F   0  					;Aperture 27, BEAM F ignore this beam.
+  BEAM END
+APERTURE END
+
+APERTURE 28
+  BEAM A
+     REFPIXEL28A -42.634 -6.360 				;Aperture 28, BEAM A Reference Pixel.
+     CORNERS28A  -27 -9 153 -7 153 2 -27 0 		;Aperture 28, BEAM A Aperture Coordinates.
+     CURVE28A    1 2.074e+00 1.049e-02			;Aperture 28, BEAM A Trace description.
+     WIDTH28A    3.121 					;Aperture 28, BEAM A Object Half Width.
+     ORIENT28A   -89.399 					;Aperture 28, BEAM A Object Orientation.
+     SLITGEOM28A 1.01 -97.78 1.05 1.04 		; Aperture 28, BEAM A Object Orientation.
+     AWIDTH28A   1.105 						;Aperture 28, BEAM A Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH28A   0.951 						;Aperture 28, BEAM A Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT28A  35.462 						;Aperture 28, BEAM A Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX28A     1.53690e+04 6.92356e-20		;Aperture 28, BEAM A Flux values.
+     IGNORE28A   0  					;Aperture 28, BEAM A ignore this beam.
+  BEAM END
+  BEAM B
+     REFPIXEL28B -42.634 -6.360 				;Aperture 28, BEAM B Reference Pixel.
+     CORNERS28B  -249 -11 -219 -11 -219 -1 -249 -1 		;Aperture 28, BEAM B Aperture Coordinates.
+     CURVE28B    0 -2.740e-01			;Aperture 28, BEAM B Trace description.
+     WIDTH28B    3.098 					;Aperture 28, BEAM B Object Half Width.
+     ORIENT28B   -90.000 					;Aperture 28, BEAM B Object Orientation.
+     SLITGEOM28B 1.02 -98.42 1.05 1.03 		; Aperture 28, BEAM B Object Orientation.
+     AWIDTH28B   1.105 						;Aperture 28, BEAM B Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH28B   0.951 						;Aperture 28, BEAM B Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT28B  35.462 						;Aperture 28, BEAM B Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX28B     1.53690e+04 6.92356e-20		;Aperture 28, BEAM B Flux values.
+     IGNORE28B   0  					;Aperture 28, BEAM B ignore this beam.
+  BEAM END
+  BEAM C
+     REFPIXEL28C -42.634 -6.360 				;Aperture 28, BEAM C Reference Pixel.
+     CORNERS28C  167 -7 427 -4 427 5 167 2 		;Aperture 28, BEAM C Aperture Coordinates.
+     CURVE28C    1 2.172e+00 9.498e-03			;Aperture 28, BEAM C Trace description.
+     WIDTH28C    3.119 					;Aperture 28, BEAM C Object Half Width.
+     ORIENT28C   -89.456 					;Aperture 28, BEAM C Object Orientation.
+     SLITGEOM28C 1.01 -97.84 1.05 1.04 		; Aperture 28, BEAM C Object Orientation.
+     AWIDTH28C   1.105 						;Aperture 28, BEAM C Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH28C   0.951 						;Aperture 28, BEAM C Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT28C  35.462 						;Aperture 28, BEAM C Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX28C     1.53690e+04 6.92356e-20		;Aperture 28, BEAM C Flux values.
+     IGNORE28C   0  					;Aperture 28, BEAM C ignore this beam.
+  BEAM END
+  BEAM D
+     REFPIXEL28D -42.634 -6.360 				;Aperture 28, BEAM D Reference Pixel.
+     CORNERS28D  427 -5 677 -4 677 5 427 4 		;Aperture 28, BEAM D Aperture Coordinates.
+     CURVE28D    1 3.063e+00 5.613e-03			;Aperture 28, BEAM D Trace description.
+     WIDTH28D    3.111 					;Aperture 28, BEAM D Object Half Width.
+     ORIENT28D   -89.678 					;Aperture 28, BEAM D Object Orientation.
+     SLITGEOM28D 1.02 -98.08 1.05 1.03 		; Aperture 28, BEAM D Object Orientation.
+     AWIDTH28D   1.105 						;Aperture 28, BEAM D Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH28D   0.951 						;Aperture 28, BEAM D Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT28D  35.462 						;Aperture 28, BEAM D Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX28D     1.53690e+04 6.92356e-20		;Aperture 28, BEAM D Flux values.
+     IGNORE28D   0  					;Aperture 28, BEAM D ignore this beam.
+  BEAM END
+  BEAM E
+     REFPIXEL28E -42.634 -6.360 				;Aperture 28, BEAM E Reference Pixel.
+     CORNERS28E  -617 -16 -412 -13 -412 -3 -617 -6 		;Aperture 28, BEAM E Aperture Coordinates.
+     CURVE28E    1 3.563e+00 1.455e-02			;Aperture 28, BEAM E Trace description.
+     WIDTH28E    3.130 					;Aperture 28, BEAM E Object Half Width.
+     ORIENT28E   -89.166 					;Aperture 28, BEAM E Object Orientation.
+     SLITGEOM28E 1.01 -97.53 1.05 1.04 		; Aperture 28, BEAM E Object Orientation.
+     AWIDTH28E   1.105 						;Aperture 28, BEAM E Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH28E   0.951 						;Aperture 28, BEAM E Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT28E  35.462 						;Aperture 28, BEAM E Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX28E     1.53690e+04 6.92356e-20		;Aperture 28, BEAM E Flux values.
+     IGNORE28E   0  					;Aperture 28, BEAM E ignore this beam.
+  BEAM END
+  BEAM F
+     REFPIXEL28F -42.634 -6.360 				;Aperture 28, BEAM F Reference Pixel.
+     CORNERS28F  457 -5 1077 -2 1077 8 457 4 		;Aperture 28, BEAM F Aperture Coordinates.
+     CURVE28F    1 3.063e+00 5.613e-03			;Aperture 28, BEAM F Trace description.
+     WIDTH28F    3.111 					;Aperture 28, BEAM F Object Half Width.
+     ORIENT28F   -89.678 					;Aperture 28, BEAM F Object Orientation.
+     SLITGEOM28F 1.02 -98.08 1.05 1.03 		; Aperture 28, BEAM F Object Orientation.
+     AWIDTH28F   1.105 						;Aperture 28, BEAM F Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH28F   0.951 						;Aperture 28, BEAM F Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT28F  35.462 						;Aperture 28, BEAM F Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX28F     1.53690e+04 6.92356e-20		;Aperture 28, BEAM F Flux values.
+     IGNORE28F   0  					;Aperture 28, BEAM F ignore this beam.
+  BEAM END
+APERTURE END
+
+APERTURE 29
+  BEAM A
+     REFPIXEL29A 64.933 58.402 				;Aperture 29, BEAM A Reference Pixel.
+     CORNERS29A  79 55 260 57 260 67 79 65 		;Aperture 29, BEAM A Aperture Coordinates.
+     CURVE29A    1 1.912e+00 9.676e-03			;Aperture 29, BEAM A Trace description.
+     WIDTH29A    3.074 					;Aperture 29, BEAM A Object Half Width.
+     ORIENT29A   -89.446 					;Aperture 29, BEAM A Object Orientation.
+     SLITGEOM29A 1.04 -102.59 1.08 1.05 		; Aperture 29, BEAM A Object Orientation.
+     AWIDTH29A   1.173 						;Aperture 29, BEAM A Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH29A   0.928 						;Aperture 29, BEAM A Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT29A  34.648 						;Aperture 29, BEAM A Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX29A     1.53690e+04 3.53809e-20		;Aperture 29, BEAM A Flux values.
+     IGNORE29A   0  					;Aperture 29, BEAM A ignore this beam.
+  BEAM END
+  BEAM B
+     REFPIXEL29B 64.933 58.402 				;Aperture 29, BEAM B Reference Pixel.
+     CORNERS29B  -142 53 -112 53 -112 63 -142 63 		;Aperture 29, BEAM B Aperture Coordinates.
+     CURVE29B    0 -1.863e-01			;Aperture 29, BEAM B Trace description.
+     WIDTH29B    3.054 					;Aperture 29, BEAM B Object Half Width.
+     ORIENT29B   -90.000 					;Aperture 29, BEAM B Object Orientation.
+     SLITGEOM29B 1.04 -103.19 1.07 1.05 		; Aperture 29, BEAM B Object Orientation.
+     AWIDTH29B   1.173 						;Aperture 29, BEAM B Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH29B   0.928 						;Aperture 29, BEAM B Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT29B  34.648 						;Aperture 29, BEAM B Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX29B     1.53690e+04 3.53809e-20		;Aperture 29, BEAM B Flux values.
+     IGNORE29B   0  					;Aperture 29, BEAM B ignore this beam.
+  BEAM END
+  BEAM C
+     REFPIXEL29C 64.933 58.402 				;Aperture 29, BEAM C Reference Pixel.
+     CORNERS29C  274 57 534 59 534 69 274 67 		;Aperture 29, BEAM C Aperture Coordinates.
+     CURVE29C    1 2.007e+00 8.698e-03			;Aperture 29, BEAM C Trace description.
+     WIDTH29C    3.072 					;Aperture 29, BEAM C Object Half Width.
+     ORIENT29C   -89.502 					;Aperture 29, BEAM C Object Orientation.
+     SLITGEOM29C 1.04 -102.65 1.08 1.05 		; Aperture 29, BEAM C Object Orientation.
+     AWIDTH29C   1.173 						;Aperture 29, BEAM C Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH29C   0.928 						;Aperture 29, BEAM C Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT29C  34.648 						;Aperture 29, BEAM C Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX29C     1.53690e+04 3.53809e-20		;Aperture 29, BEAM C Flux values.
+     IGNORE29C   0  					;Aperture 29, BEAM C ignore this beam.
+  BEAM END
+  BEAM D
+     REFPIXEL29D 64.933 58.402 				;Aperture 29, BEAM D Reference Pixel.
+     CORNERS29D  534 58 784 60 784 70 534 69 		;Aperture 29, BEAM D Aperture Coordinates.
+     CURVE29D    1 2.706e+00 6.059e-03			;Aperture 29, BEAM D Trace description.
+     WIDTH29D    3.066 					;Aperture 29, BEAM D Object Half Width.
+     ORIENT29D   -89.653 					;Aperture 29, BEAM D Object Orientation.
+     SLITGEOM29D 1.04 -102.82 1.08 1.05 		; Aperture 29, BEAM D Object Orientation.
+     AWIDTH29D   1.173 						;Aperture 29, BEAM D Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH29D   0.928 						;Aperture 29, BEAM D Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT29D  34.648 						;Aperture 29, BEAM D Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX29D     1.53690e+04 3.53809e-20		;Aperture 29, BEAM D Flux values.
+     IGNORE29D   0  					;Aperture 29, BEAM D ignore this beam.
+  BEAM END
+  BEAM E
+     REFPIXEL29E 64.933 58.402 				;Aperture 29, BEAM E Reference Pixel.
+     CORNERS29E  -510 48 -305 51 -305 61 -510 59 		;Aperture 29, BEAM E Aperture Coordinates.
+     CURVE29E    1 3.074e+00 1.299e-02			;Aperture 29, BEAM E Trace description.
+     WIDTH29E    3.081 					;Aperture 29, BEAM E Object Half Width.
+     ORIENT29E   -89.256 					;Aperture 29, BEAM E Object Orientation.
+     SLITGEOM29E 1.04 -102.39 1.08 1.05 		; Aperture 29, BEAM E Object Orientation.
+     AWIDTH29E   1.173 						;Aperture 29, BEAM E Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH29E   0.928 						;Aperture 29, BEAM E Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT29E  34.648 						;Aperture 29, BEAM E Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX29E     1.53690e+04 3.53809e-20		;Aperture 29, BEAM E Flux values.
+     IGNORE29E   2  					;Aperture 29, BEAM E ignore this beam.
+  BEAM END
+  BEAM F
+     REFPIXEL29F 64.933 58.402 				;Aperture 29, BEAM F Reference Pixel.
+     CORNERS29F  564 59 1184 62 1184 72 564 69 		;Aperture 29, BEAM F Aperture Coordinates.
+     CURVE29F    1 2.706e+00 6.059e-03			;Aperture 29, BEAM F Trace description.
+     WIDTH29F    3.066 					;Aperture 29, BEAM F Object Half Width.
+     ORIENT29F   -89.653 					;Aperture 29, BEAM F Object Orientation.
+     SLITGEOM29F 1.04 -102.82 1.08 1.05 		; Aperture 29, BEAM F Object Orientation.
+     AWIDTH29F   1.173 						;Aperture 29, BEAM F Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH29F   0.928 						;Aperture 29, BEAM F Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT29F  34.648 						;Aperture 29, BEAM F Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX29F     1.53690e+04 3.53809e-20		;Aperture 29, BEAM F Flux values.
+     IGNORE29F   0  					;Aperture 29, BEAM F ignore this beam.
+  BEAM END
+APERTURE END
+
+APERTURE 62
+  BEAM A
+     REFPIXEL62A 1013.031 1010.334 				;Aperture 62, BEAM A Reference Pixel.
+     CORNERS62A  1028 1006 1209 1009 1208 1017 1027 1014 		;Aperture 62, BEAM A Aperture Coordinates.
+     CURVE62A    1 2.241e-01 1.546e-02			;Aperture 62, BEAM A Trace description.
+     WIDTH62A    2.134 					;Aperture 62, BEAM A Object Half Width.
+     ORIENT62A   -89.114 					;Aperture 62, BEAM A Object Orientation.
+     SLITGEOM62A 1.00 -89.11 1.00 1.00 		; Aperture 62, BEAM A Object Orientation.
+     AWIDTH62A   0.687 						;Aperture 62, BEAM A Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH62A   0.592 						;Aperture 62, BEAM A Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT62A  26.567 						;Aperture 62, BEAM A Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX62A     1.53690e+04 1.28259e-19		;Aperture 62, BEAM A Flux values.
+     IGNORE62A   0  					;Aperture 62, BEAM A ignore this beam.
+  BEAM END
+  BEAM B
+     REFPIXEL62B 1013.031 1010.334 				;Aperture 62, BEAM B Reference Pixel.
+     CORNERS62B  806 1004 836 1004 836 1012 806 1012 		;Aperture 62, BEAM B Aperture Coordinates.
+     CURVE62B    0 -1.513e+00			;Aperture 62, BEAM B Trace description.
+     WIDTH62B    2.118 					;Aperture 62, BEAM B Object Half Width.
+     ORIENT62B   -90.000 					;Aperture 62, BEAM B Object Orientation.
+     SLITGEOM62B 1.00 -90.00 1.00 1.00 		; Aperture 62, BEAM B Object Orientation.
+     AWIDTH62B   0.687 						;Aperture 62, BEAM B Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH62B   0.592 						;Aperture 62, BEAM B Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT62B  26.567 						;Aperture 62, BEAM B Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX62B     1.53690e+04 1.28259e-19		;Aperture 62, BEAM B Flux values.
+     IGNORE62B   0  					;Aperture 62, BEAM B ignore this beam.
+  BEAM END
+  BEAM C
+     REFPIXEL62C 1013.031 1010.334 				;Aperture 62, BEAM C Reference Pixel.
+     CORNERS62C  1223 1009 1483 1013 1482 1021 1222 1017 		;Aperture 62, BEAM C Aperture Coordinates.
+     CURVE62C    1 -4.923e-01 1.613e-02			;Aperture 62, BEAM C Trace description.
+     WIDTH62C    2.135 					;Aperture 62, BEAM C Object Half Width.
+     ORIENT62C   -89.076 					;Aperture 62, BEAM C Object Orientation.
+     SLITGEOM62C 1.00 -89.08 1.00 1.00 		; Aperture 62, BEAM C Object Orientation.
+     AWIDTH62C   0.687 						;Aperture 62, BEAM C Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH62C   0.592 						;Aperture 62, BEAM C Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT62C  26.567 						;Aperture 62, BEAM C Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX62C     1.53690e+04 1.28259e-19		;Aperture 62, BEAM C Flux values.
+     IGNORE62C   0  					;Aperture 62, BEAM C ignore this beam.
+  BEAM END
+  BEAM D
+     REFPIXEL62D 1013.031 1010.334 				;Aperture 62, BEAM D Reference Pixel.
+     CORNERS62D  1483 1009 1733 1012 1732 1020 1482 1017 		;Aperture 62, BEAM D Aperture Coordinates.
+     CURVE62D    1 -2.541e+00 1.260e-02			;Aperture 62, BEAM D Trace description.
+     WIDTH62D    2.131 					;Aperture 62, BEAM D Object Half Width.
+     ORIENT62D   -89.278 					;Aperture 62, BEAM D Object Orientation.
+     SLITGEOM62D 1.00 -89.28 1.00 1.00 		; Aperture 62, BEAM D Object Orientation.
+     AWIDTH62D   0.687 						;Aperture 62, BEAM D Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH62D   0.592 						;Aperture 62, BEAM D Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT62D  26.567 						;Aperture 62, BEAM D Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX62D     1.53690e+04 1.28259e-19		;Aperture 62, BEAM D Flux values.
+     IGNORE62D   0  					;Aperture 62, BEAM D ignore this beam.
+  BEAM END
+  BEAM E
+     REFPIXEL62E 1013.031 1010.334 				;Aperture 62, BEAM E Reference Pixel.
+     CORNERS62E  438 1001 643 1002 643 1010 438 1010 		;Aperture 62, BEAM E Aperture Coordinates.
+     CURVE62E    1 -1.774e+00 4.620e-03			;Aperture 62, BEAM E Trace description.
+     WIDTH62E    2.123 					;Aperture 62, BEAM E Object Half Width.
+     ORIENT62E   -89.735 					;Aperture 62, BEAM E Object Orientation.
+     SLITGEOM62E 1.00 -89.74 1.00 1.00 		; Aperture 62, BEAM E Object Orientation.
+     AWIDTH62E   0.687 						;Aperture 62, BEAM E Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH62E   0.592 						;Aperture 62, BEAM E Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT62E  26.567 						;Aperture 62, BEAM E Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX62E     1.53690e+04 1.28259e-19		;Aperture 62, BEAM E Flux values.
+     IGNORE62E   0  					;Aperture 62, BEAM E ignore this beam.
+  BEAM END
+  BEAM F
+     REFPIXEL62F 1013.031 1010.334 				;Aperture 62, BEAM F Reference Pixel.
+     CORNERS62F  1513 1009 2133 1017 2132 1026 1512 1018 		;Aperture 62, BEAM F Aperture Coordinates.
+     CURVE62F    1 -2.541e+00 1.260e-02			;Aperture 62, BEAM F Trace description.
+     WIDTH62F    2.131 					;Aperture 62, BEAM F Object Half Width.
+     ORIENT62F   -89.278 					;Aperture 62, BEAM F Object Orientation.
+     SLITGEOM62F 1.00 -89.28 1.00 1.00 		; Aperture 62, BEAM F Object Orientation.
+     AWIDTH62F   0.687 						;Aperture 62, BEAM F Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH62F   0.592 						;Aperture 62, BEAM F Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT62F  26.567 						;Aperture 62, BEAM F Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX62F     1.53690e+04 1.28259e-19		;Aperture 62, BEAM F Flux values.
+     IGNORE62F   0  					;Aperture 62, BEAM F ignore this beam.
+  BEAM END
+APERTURE END
+
+APERTURE 64
+  BEAM A
+     REFPIXEL64A 1013.272 994.236 				;Aperture 64, BEAM A Reference Pixel.
+     CORNERS64A  1028 990 1209 993 1209 1001 1028 999 		;Aperture 64, BEAM A Aperture Coordinates.
+     CURVE64A    1 2.487e-01 1.526e-02			;Aperture 64, BEAM A Trace description.
+     WIDTH64A    2.414 					;Aperture 64, BEAM A Object Half Width.
+     ORIENT64A   -89.125 					;Aperture 64, BEAM A Object Orientation.
+     SLITGEOM64A 1.00 -89.13 1.00 1.00 		; Aperture 64, BEAM A Object Orientation.
+     AWIDTH64A   0.702 						;Aperture 64, BEAM A Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH64A   0.670 						;Aperture 64, BEAM A Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT64A  26.622 						;Aperture 64, BEAM A Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX64A     1.53690e+04 5.96059e-20		;Aperture 64, BEAM A Flux values.
+     IGNORE64A   0  					;Aperture 64, BEAM A ignore this beam.
+  BEAM END
+  BEAM B
+     REFPIXEL64B 1013.272 994.236 				;Aperture 64, BEAM B Reference Pixel.
+     CORNERS64B  806 988 836 988 836 997 806 997 		;Aperture 64, BEAM B Aperture Coordinates.
+     CURVE64B    0 -1.477e+00			;Aperture 64, BEAM B Trace description.
+     WIDTH64B    2.396 					;Aperture 64, BEAM B Object Half Width.
+     ORIENT64B   -90.000 					;Aperture 64, BEAM B Object Orientation.
+     SLITGEOM64B 1.00 -90.00 1.00 1.00 		; Aperture 64, BEAM B Object Orientation.
+     AWIDTH64B   0.702 						;Aperture 64, BEAM B Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH64B   0.670 						;Aperture 64, BEAM B Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT64B  26.622 						;Aperture 64, BEAM B Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX64B     1.53690e+04 5.96059e-20		;Aperture 64, BEAM B Flux values.
+     IGNORE64B   0  					;Aperture 64, BEAM B ignore this beam.
+  BEAM END
+  BEAM C
+     REFPIXEL64C 1013.272 994.236 				;Aperture 64, BEAM C Reference Pixel.
+     CORNERS64C  1223 992 1483 996 1483 1005 1223 1001 		;Aperture 64, BEAM C Aperture Coordinates.
+     CURVE64C    1 -4.492e-01 1.590e-02			;Aperture 64, BEAM C Trace description.
+     WIDTH64C    2.415 					;Aperture 64, BEAM C Object Half Width.
+     ORIENT64C   -89.089 					;Aperture 64, BEAM C Object Orientation.
+     SLITGEOM64C 1.00 -89.09 1.00 1.00 		; Aperture 64, BEAM C Object Orientation.
+     AWIDTH64C   0.702 						;Aperture 64, BEAM C Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH64C   0.670 						;Aperture 64, BEAM C Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT64C  26.622 						;Aperture 64, BEAM C Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX64C     1.53690e+04 5.96059e-20		;Aperture 64, BEAM C Flux values.
+     IGNORE64C   0  					;Aperture 64, BEAM C ignore this beam.
+  BEAM END
+  BEAM D
+     REFPIXEL64D 1013.272 994.236 				;Aperture 64, BEAM D Reference Pixel.
+     CORNERS64D  1483 993 1733 996 1733 1005 1483 1002 		;Aperture 64, BEAM D Aperture Coordinates.
+     CURVE64D    1 -2.452e+00 1.249e-02			;Aperture 64, BEAM D Trace description.
+     WIDTH64D    2.411 					;Aperture 64, BEAM D Object Half Width.
+     ORIENT64D   -89.284 					;Aperture 64, BEAM D Object Orientation.
+     SLITGEOM64D 1.00 -89.28 1.00 1.00 		; Aperture 64, BEAM D Object Orientation.
+     AWIDTH64D   0.702 						;Aperture 64, BEAM D Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH64D   0.670 						;Aperture 64, BEAM D Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT64D  26.622 						;Aperture 64, BEAM D Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX64D     1.53690e+04 5.96059e-20		;Aperture 64, BEAM D Flux values.
+     IGNORE64D   0  					;Aperture 64, BEAM D ignore this beam.
+  BEAM END
+  BEAM E
+     REFPIXEL64E 1013.272 994.236 				;Aperture 64, BEAM E Reference Pixel.
+     CORNERS64E  438 985 643 986 643 995 438 994 		;Aperture 64, BEAM E Aperture Coordinates.
+     CURVE64E    1 -1.703e+00 4.681e-03			;Aperture 64, BEAM E Trace description.
+     WIDTH64E    2.401 					;Aperture 64, BEAM E Object Half Width.
+     ORIENT64E   -89.732 					;Aperture 64, BEAM E Object Orientation.
+     SLITGEOM64E 1.00 -89.73 1.00 1.00 		; Aperture 64, BEAM E Object Orientation.
+     AWIDTH64E   0.702 						;Aperture 64, BEAM E Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH64E   0.670 						;Aperture 64, BEAM E Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT64E  26.622 						;Aperture 64, BEAM E Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX64E     1.53690e+04 5.96059e-20		;Aperture 64, BEAM E Flux values.
+     IGNORE64E   0  					;Aperture 64, BEAM E ignore this beam.
+  BEAM END
+  BEAM F
+     REFPIXEL64F 1013.272 994.236 				;Aperture 64, BEAM F Reference Pixel.
+     CORNERS64F  1513 993 2133 1001 2133 1010 1513 1002 		;Aperture 64, BEAM F Aperture Coordinates.
+     CURVE64F    1 -2.452e+00 1.249e-02			;Aperture 64, BEAM F Trace description.
+     WIDTH64F    2.411 					;Aperture 64, BEAM F Object Half Width.
+     ORIENT64F   -89.284 					;Aperture 64, BEAM F Object Orientation.
+     SLITGEOM64F 1.00 -89.28 1.00 1.00 		; Aperture 64, BEAM F Object Orientation.
+     AWIDTH64F   0.702 						;Aperture 64, BEAM F Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH64F   0.670 						;Aperture 64, BEAM F Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT64F  26.622 						;Aperture 64, BEAM F Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX64F     1.53690e+04 5.96059e-20		;Aperture 64, BEAM F Flux values.
+     IGNORE64F   0  					;Aperture 64, BEAM F ignore this beam.
+  BEAM END
+APERTURE END
+
+APERTURE 67
+  BEAM A
+     REFPIXEL67A 449.147 933.954 				;Aperture 67, BEAM A Reference Pixel.
+     CORNERS67A  464 929 645 931 645 941 464 939 		;Aperture 67, BEAM A Aperture Coordinates.
+     CURVE67A    1 1.988e-01 1.110e-02			;Aperture 67, BEAM A Trace description.
+     WIDTH67A    3.194 					;Aperture 67, BEAM A Object Half Width.
+     ORIENT67A   -89.364 					;Aperture 67, BEAM A Object Orientation.
+     SLITGEOM67A 0.99 -102.56 1.09 1.06 		; Aperture 67, BEAM A Object Orientation.
+     AWIDTH67A   1.161 						;Aperture 67, BEAM A Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH67A   0.905 						;Aperture 67, BEAM A Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT67A  28.702 						;Aperture 67, BEAM A Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX67A     1.53690e+04 3.33434e-20		;Aperture 67, BEAM A Flux values.
+     IGNORE67A   0  					;Aperture 67, BEAM A ignore this beam.
+  BEAM END
+  BEAM B
+     REFPIXEL67B 449.147 933.954 				;Aperture 67, BEAM B Reference Pixel.
+     CORNERS67B  242 927 272 927 272 938 242 938 		;Aperture 67, BEAM B Aperture Coordinates.
+     CURVE67B    0 -8.748e-01			;Aperture 67, BEAM B Trace description.
+     WIDTH67B    3.175 					;Aperture 67, BEAM B Object Half Width.
+     ORIENT67B   -90.000 					;Aperture 67, BEAM B Object Orientation.
+     SLITGEOM67B 1.00 -103.32 1.08 1.05 		; Aperture 67, BEAM B Object Orientation.
+     AWIDTH67B   1.161 						;Aperture 67, BEAM B Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH67B   0.905 						;Aperture 67, BEAM B Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT67B  28.702 						;Aperture 67, BEAM B Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX67B     1.53690e+04 3.33434e-20		;Aperture 67, BEAM B Flux values.
+     IGNORE67B   0  					;Aperture 67, BEAM B ignore this beam.
+  BEAM END
+  BEAM C
+     REFPIXEL67C 449.147 933.954 				;Aperture 67, BEAM C Reference Pixel.
+     CORNERS67C  659 930 919 933 919 944 659 941 		;Aperture 67, BEAM C Aperture Coordinates.
+     CURVE67C    1 -3.669e-01 1.152e-02			;Aperture 67, BEAM C Trace description.
+     WIDTH67C    3.195 					;Aperture 67, BEAM C Object Half Width.
+     ORIENT67C   -89.340 					;Aperture 67, BEAM C Object Orientation.
+     SLITGEOM67C 0.99 -102.54 1.09 1.06 		; Aperture 67, BEAM C Object Orientation.
+     AWIDTH67C   1.161 						;Aperture 67, BEAM C Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH67C   0.905 						;Aperture 67, BEAM C Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT67C  28.702 						;Aperture 67, BEAM C Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX67C     1.53690e+04 3.33434e-20		;Aperture 67, BEAM C Flux values.
+     IGNORE67C   0  					;Aperture 67, BEAM C ignore this beam.
+  BEAM END
+  BEAM D
+     REFPIXEL67D 449.147 933.954 				;Aperture 67, BEAM D Reference Pixel.
+     CORNERS67D  919 932 1169 935 1169 945 919 942 		;Aperture 67, BEAM D Aperture Coordinates.
+     CURVE67D    1 -2.120e+00 1.208e-02			;Aperture 67, BEAM D Trace description.
+     WIDTH67D    3.196 					;Aperture 67, BEAM D Object Half Width.
+     ORIENT67D   -89.308 					;Aperture 67, BEAM D Object Orientation.
+     SLITGEOM67D 0.99 -102.50 1.09 1.06 		; Aperture 67, BEAM D Object Orientation.
+     AWIDTH67D   1.161 						;Aperture 67, BEAM D Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH67D   0.905 						;Aperture 67, BEAM D Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT67D  28.702 						;Aperture 67, BEAM D Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX67D     1.53690e+04 3.33434e-20		;Aperture 67, BEAM D Flux values.
+     IGNORE67D   0  					;Aperture 67, BEAM D ignore this beam.
+  BEAM END
+  BEAM E
+     REFPIXEL67E 449.147 933.954 				;Aperture 67, BEAM E Reference Pixel.
+     CORNERS67E  -125 926 79 926 79 936 -125 936 		;Aperture 67, BEAM E Aperture Coordinates.
+     CURVE67E    1 -1.614e+00 1.992e-03			;Aperture 67, BEAM E Trace description.
+     WIDTH67E    3.179 					;Aperture 67, BEAM E Object Half Width.
+     ORIENT67E   -89.886 					;Aperture 67, BEAM E Object Orientation.
+     SLITGEOM67E 1.00 -103.19 1.08 1.05 		; Aperture 67, BEAM E Object Orientation.
+     AWIDTH67E   1.161 						;Aperture 67, BEAM E Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH67E   0.905 						;Aperture 67, BEAM E Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT67E  28.702 						;Aperture 67, BEAM E Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX67E     1.53690e+04 3.33434e-20		;Aperture 67, BEAM E Flux values.
+     IGNORE67E   2  					;Aperture 67, BEAM E ignore this beam.
+  BEAM END
+  BEAM F
+     REFPIXEL67F 449.147 933.954 				;Aperture 67, BEAM F Reference Pixel.
+     CORNERS67F  949 932 1569 940 1569 950 949 943 		;Aperture 67, BEAM F Aperture Coordinates.
+     CURVE67F    1 -2.120e+00 1.208e-02			;Aperture 67, BEAM F Trace description.
+     WIDTH67F    3.196 					;Aperture 67, BEAM F Object Half Width.
+     ORIENT67F   -89.308 					;Aperture 67, BEAM F Object Orientation.
+     SLITGEOM67F 0.99 -102.50 1.09 1.06 		; Aperture 67, BEAM F Object Orientation.
+     AWIDTH67F   1.161 						;Aperture 67, BEAM F Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH67F   0.905 						;Aperture 67, BEAM F Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT67F  28.702 						;Aperture 67, BEAM F Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX67F     1.53690e+04 3.33434e-20		;Aperture 67, BEAM F Flux values.
+     IGNORE67F   0  					;Aperture 67, BEAM F ignore this beam.
+  BEAM END
+APERTURE END
+
+APERTURE 68
+  BEAM A
+     REFPIXEL68A 1014.983 818.004 				;Aperture 68, BEAM A Reference Pixel.
+     CORNERS68A  1030 815 1211 817 1210 824 1029 822 		;Aperture 68, BEAM A Aperture Coordinates.
+     CURVE68A    1 5.213e-01 1.313e-02			;Aperture 68, BEAM A Trace description.
+     WIDTH68A    1.712 					;Aperture 68, BEAM A Object Half Width.
+     ORIENT68A   -89.248 					;Aperture 68, BEAM A Object Orientation.
+     SLITGEOM68A 1.00 -89.25 1.00 1.00 		; Aperture 68, BEAM A Object Orientation.
+     AWIDTH68A   0.957 						;Aperture 68, BEAM A Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH68A   0.423 						;Aperture 68, BEAM A Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT68A  27.320 						;Aperture 68, BEAM A Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX68A     1.53690e+04 1.56333e-19		;Aperture 68, BEAM A Flux values.
+     IGNORE68A   0  					;Aperture 68, BEAM A ignore this beam.
+  BEAM END
+  BEAM B
+     REFPIXEL68B 1014.983 818.004 				;Aperture 68, BEAM B Reference Pixel.
+     CORNERS68B  807 813 837 813 837 820 807 820 		;Aperture 68, BEAM B Aperture Coordinates.
+     CURVE68B    0 -1.088e+00			;Aperture 68, BEAM B Trace description.
+     WIDTH68B    1.757 					;Aperture 68, BEAM B Object Half Width.
+     ORIENT68B   -90.000 					;Aperture 68, BEAM B Object Orientation.
+     SLITGEOM68B 1.00 -90.00 1.00 1.00 		; Aperture 68, BEAM B Object Orientation.
+     AWIDTH68B   0.957 						;Aperture 68, BEAM B Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH68B   0.423 						;Aperture 68, BEAM B Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT68B  27.320 						;Aperture 68, BEAM B Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX68B     1.53690e+04 1.56333e-19		;Aperture 68, BEAM B Flux values.
+     IGNORE68B   0  					;Aperture 68, BEAM B ignore this beam.
+  BEAM END
+  BEAM C
+     REFPIXEL68C 1014.983 818.004 				;Aperture 68, BEAM C Reference Pixel.
+     CORNERS68C  1225 817 1485 820 1484 828 1224 824 		;Aperture 68, BEAM C Aperture Coordinates.
+     CURVE68C    1 2.476e-02 1.339e-02			;Aperture 68, BEAM C Trace description.
+     WIDTH68C    1.711 					;Aperture 68, BEAM C Object Half Width.
+     ORIENT68C   -89.233 					;Aperture 68, BEAM C Object Orientation.
+     SLITGEOM68C 1.00 -89.23 1.00 1.00 		; Aperture 68, BEAM C Object Orientation.
+     AWIDTH68C   0.957 						;Aperture 68, BEAM C Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH68C   0.423 						;Aperture 68, BEAM C Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT68C  27.320 						;Aperture 68, BEAM C Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX68C     1.53690e+04 1.56333e-19		;Aperture 68, BEAM C Flux values.
+     IGNORE68C   0  					;Aperture 68, BEAM C ignore this beam.
+  BEAM END
+  BEAM D
+     REFPIXEL68D 1014.983 818.004 				;Aperture 68, BEAM D Reference Pixel.
+     CORNERS68D  1485 818 1735 820 1734 828 1484 825 		;Aperture 68, BEAM D Aperture Coordinates.
+     CURVE68D    1 -1.481e+00 1.128e-02			;Aperture 68, BEAM D Trace description.
+     WIDTH68D    1.718 					;Aperture 68, BEAM D Object Half Width.
+     ORIENT68D   -89.354 					;Aperture 68, BEAM D Object Orientation.
+     SLITGEOM68D 1.00 -89.35 1.00 1.00 		; Aperture 68, BEAM D Object Orientation.
+     AWIDTH68D   0.957 						;Aperture 68, BEAM D Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH68D   0.423 						;Aperture 68, BEAM D Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT68D  27.320 						;Aperture 68, BEAM D Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX68D     1.53690e+04 1.56333e-19		;Aperture 68, BEAM D Flux values.
+     IGNORE68D   0  					;Aperture 68, BEAM D ignore this beam.
+  BEAM END
+  BEAM E
+     REFPIXEL68E 1014.983 818.004 				;Aperture 68, BEAM E Reference Pixel.
+     CORNERS68E  440 810 645 811 644 818 439 817 		;Aperture 68, BEAM E Aperture Coordinates.
+     CURVE68E    1 -9.414e-01 5.299e-03			;Aperture 68, BEAM E Trace description.
+     WIDTH68E    1.739 					;Aperture 68, BEAM E Object Half Width.
+     ORIENT68E   -89.696 					;Aperture 68, BEAM E Object Orientation.
+     SLITGEOM68E 1.00 -89.70 1.00 1.00 		; Aperture 68, BEAM E Object Orientation.
+     AWIDTH68E   0.957 						;Aperture 68, BEAM E Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH68E   0.423 						;Aperture 68, BEAM E Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT68E  27.320 						;Aperture 68, BEAM E Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX68E     1.53690e+04 1.56333e-19		;Aperture 68, BEAM E Flux values.
+     IGNORE68E   0  					;Aperture 68, BEAM E ignore this beam.
+  BEAM END
+  BEAM F
+     REFPIXEL68F 1014.983 818.004 				;Aperture 68, BEAM F Reference Pixel.
+     CORNERS68F  1515 818 2135 825 2134 832 1514 825 		;Aperture 68, BEAM F Aperture Coordinates.
+     CURVE68F    1 -1.481e+00 1.128e-02			;Aperture 68, BEAM F Trace description.
+     WIDTH68F    1.718 					;Aperture 68, BEAM F Object Half Width.
+     ORIENT68F   -89.354 					;Aperture 68, BEAM F Object Orientation.
+     SLITGEOM68F 1.00 -89.35 1.00 1.00 		; Aperture 68, BEAM F Object Orientation.
+     AWIDTH68F   0.957 						;Aperture 68, BEAM F Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH68F   0.423 						;Aperture 68, BEAM F Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT68F  27.320 						;Aperture 68, BEAM F Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX68F     1.53690e+04 1.56333e-19		;Aperture 68, BEAM F Flux values.
+     IGNORE68F   0  					;Aperture 68, BEAM F ignore this beam.
+  BEAM END
+APERTURE END
+
+APERTURE 70
+  BEAM A
+     REFPIXEL70A 527.428 880.257 				;Aperture 70, BEAM A Reference Pixel.
+     CORNERS70A  542 875 723 877 723 888 542 886 		;Aperture 70, BEAM A Aperture Coordinates.
+     CURVE70A    1 3.116e-01 1.123e-02			;Aperture 70, BEAM A Trace description.
+     WIDTH70A    3.268 					;Aperture 70, BEAM A Object Half Width.
+     ORIENT70A   -89.357 					;Aperture 70, BEAM A Object Orientation.
+     SLITGEOM70A 0.97 -97.74 1.05 1.03 		; Aperture 70, BEAM A Object Orientation.
+     AWIDTH70A   1.089 						;Aperture 70, BEAM A Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH70A   0.925 						;Aperture 70, BEAM A Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT70A  28.598 						;Aperture 70, BEAM A Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX70A     1.53690e+04 3.48345e-20		;Aperture 70, BEAM A Flux values.
+     IGNORE70A   0  					;Aperture 70, BEAM A ignore this beam.
+  BEAM END
+  BEAM B
+     REFPIXEL70B 527.428 880.257 				;Aperture 70, BEAM B Reference Pixel.
+     CORNERS70B  320 874 350 874 350 884 320 884 		;Aperture 70, BEAM B Aperture Coordinates.
+     CURVE70B    0 -8.643e-01			;Aperture 70, BEAM B Trace description.
+     WIDTH70B    3.249 					;Aperture 70, BEAM B Object Half Width.
+     ORIENT70B   -90.000 					;Aperture 70, BEAM B Object Orientation.
+     SLITGEOM70B 0.98 -98.48 1.04 1.03 		; Aperture 70, BEAM B Object Orientation.
+     AWIDTH70B   1.089 						;Aperture 70, BEAM B Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH70B   0.925 						;Aperture 70, BEAM B Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT70B  28.598 						;Aperture 70, BEAM B Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX70B     1.53690e+04 3.48345e-20		;Aperture 70, BEAM B Flux values.
+     IGNORE70B   0  					;Aperture 70, BEAM B ignore this beam.
+  BEAM END
+  BEAM C
+     REFPIXEL70C 527.428 880.257 				;Aperture 70, BEAM C Reference Pixel.
+     CORNERS70C  737 877 997 880 997 890 737 887 		;Aperture 70, BEAM C Aperture Coordinates.
+     CURVE70C    1 -2.070e-01 1.157e-02			;Aperture 70, BEAM C Trace description.
+     WIDTH70C    3.269 					;Aperture 70, BEAM C Object Half Width.
+     ORIENT70C   -89.337 					;Aperture 70, BEAM C Object Orientation.
+     SLITGEOM70C 0.97 -97.72 1.05 1.03 		; Aperture 70, BEAM C Object Orientation.
+     AWIDTH70C   1.089 						;Aperture 70, BEAM C Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH70C   0.925 						;Aperture 70, BEAM C Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT70C  28.598 						;Aperture 70, BEAM C Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX70C     1.53690e+04 3.48345e-20		;Aperture 70, BEAM C Flux values.
+     IGNORE70C   0  					;Aperture 70, BEAM C ignore this beam.
+  BEAM END
+  BEAM D
+     REFPIXEL70D 527.428 880.257 				;Aperture 70, BEAM D Reference Pixel.
+     CORNERS70D  997 878 1247 881 1247 892 997 889 		;Aperture 70, BEAM D Aperture Coordinates.
+     CURVE70D    1 -1.824e+00 1.171e-02			;Aperture 70, BEAM D Trace description.
+     WIDTH70D    3.269 					;Aperture 70, BEAM D Object Half Width.
+     ORIENT70D   -89.329 					;Aperture 70, BEAM D Object Orientation.
+     SLITGEOM70D 0.97 -97.71 1.05 1.03 		; Aperture 70, BEAM D Object Orientation.
+     AWIDTH70D   1.089 						;Aperture 70, BEAM D Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH70D   0.925 						;Aperture 70, BEAM D Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT70D  28.598 						;Aperture 70, BEAM D Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX70D     1.53690e+04 3.48345e-20		;Aperture 70, BEAM D Flux values.
+     IGNORE70D   0  					;Aperture 70, BEAM D ignore this beam.
+  BEAM END
+  BEAM E
+     REFPIXEL70E 527.428 880.257 				;Aperture 70, BEAM E Reference Pixel.
+     CORNERS70E  -47 871 157 872 157 883 -47 882 		;Aperture 70, BEAM E Aperture Coordinates.
+     CURVE70E    1 -1.332e+00 2.968e-03			;Aperture 70, BEAM E Trace description.
+     WIDTH70E    3.254 					;Aperture 70, BEAM E Object Half Width.
+     ORIENT70E   -89.830 					;Aperture 70, BEAM E Object Orientation.
+     SLITGEOM70E 0.98 -98.28 1.04 1.03 		; Aperture 70, BEAM E Object Orientation.
+     AWIDTH70E   1.089 						;Aperture 70, BEAM E Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH70E   0.925 						;Aperture 70, BEAM E Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT70E  28.598 						;Aperture 70, BEAM E Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX70E     1.53690e+04 3.48345e-20		;Aperture 70, BEAM E Flux values.
+     IGNORE70E   2  					;Aperture 70, BEAM E ignore this beam.
+  BEAM END
+  BEAM F
+     REFPIXEL70F 527.428 880.257 				;Aperture 70, BEAM F Reference Pixel.
+     CORNERS70F  1027 879 1647 886 1647 896 1027 889 		;Aperture 70, BEAM F Aperture Coordinates.
+     CURVE70F    1 -1.824e+00 1.171e-02			;Aperture 70, BEAM F Trace description.
+     WIDTH70F    3.269 					;Aperture 70, BEAM F Object Half Width.
+     ORIENT70F   -89.329 					;Aperture 70, BEAM F Object Orientation.
+     SLITGEOM70F 0.97 -97.71 1.05 1.03 		; Aperture 70, BEAM F Object Orientation.
+     AWIDTH70F   1.089 						;Aperture 70, BEAM F Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH70F   0.925 						;Aperture 70, BEAM F Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT70F  28.598 						;Aperture 70, BEAM F Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX70F     1.53690e+04 3.48345e-20		;Aperture 70, BEAM F Flux values.
+     IGNORE70F   0  					;Aperture 70, BEAM F ignore this beam.
+  BEAM END
+APERTURE END
+
+APERTURE 74
+  BEAM A
+     REFPIXEL74A 122.091 433.239 				;Aperture 74, BEAM A Reference Pixel.
+     CORNERS74A  137 427 318 429 318 442 137 441 		;Aperture 74, BEAM A Aperture Coordinates.
+     CURVE74A    1 1.119e+00 9.018e-03			;Aperture 74, BEAM A Trace description.
+     WIDTH74A    4.856 					;Aperture 74, BEAM A Object Half Width.
+     ORIENT74A   -89.483 					;Aperture 74, BEAM A Object Orientation.
+     SLITGEOM74A 1.44 -90.74 1.45 1.45 		; Aperture 74, BEAM A Object Orientation.
+     AWIDTH74A   1.461 						;Aperture 74, BEAM A Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH74A   1.426 						;Aperture 74, BEAM A Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT74A  32.155 						;Aperture 74, BEAM A Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX74A     1.53690e+04 1.42800e-18		;Aperture 74, BEAM A Flux values.
+     IGNORE74A   0  					;Aperture 74, BEAM A ignore this beam.
+  BEAM END
+  BEAM B
+     REFPIXEL74B 122.091 433.239 				;Aperture 74, BEAM B Reference Pixel.
+     CORNERS74B  -84 426 -54 426 -54 439 -84 439 		;Aperture 74, BEAM B Aperture Coordinates.
+     CURVE74B    0 -3.583e-01			;Aperture 74, BEAM B Trace description.
+     WIDTH74B    4.829 					;Aperture 74, BEAM B Object Half Width.
+     ORIENT74B   -90.000 					;Aperture 74, BEAM B Object Orientation.
+     SLITGEOM74B 1.44 -91.26 1.45 1.45 		; Aperture 74, BEAM B Object Orientation.
+     AWIDTH74B   1.461 						;Aperture 74, BEAM B Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH74B   1.426 						;Aperture 74, BEAM B Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT74B  32.155 						;Aperture 74, BEAM B Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX74B     1.53690e+04 1.42800e-18		;Aperture 74, BEAM B Flux values.
+     IGNORE74B   0  					;Aperture 74, BEAM B ignore this beam.
+  BEAM END
+  BEAM C
+     REFPIXEL74C 122.091 433.239 				;Aperture 74, BEAM C Reference Pixel.
+     CORNERS74C  332 429 592 431 592 445 332 442 		;Aperture 74, BEAM C Aperture Coordinates.
+     CURVE74C    1 9.527e-01 8.759e-03			;Aperture 74, BEAM C Trace description.
+     WIDTH74C    4.855 					;Aperture 74, BEAM C Object Half Width.
+     ORIENT74C   -89.498 					;Aperture 74, BEAM C Object Orientation.
+     SLITGEOM74C 1.44 -90.75 1.45 1.45 		; Aperture 74, BEAM C Object Orientation.
+     AWIDTH74C   1.461 						;Aperture 74, BEAM C Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH74C   1.426 						;Aperture 74, BEAM C Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT74C  32.155 						;Aperture 74, BEAM C Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX74C     1.53690e+04 1.42800e-18		;Aperture 74, BEAM C Flux values.
+     IGNORE74C   0  					;Aperture 74, BEAM C ignore this beam.
+  BEAM END
+  BEAM D
+     REFPIXEL74D 122.091 433.239 				;Aperture 74, BEAM D Reference Pixel.
+     CORNERS74D  592 431 842 433 842 446 592 444 		;Aperture 74, BEAM D Aperture Coordinates.
+     CURVE74D    1 6.400e-01 8.636e-03			;Aperture 74, BEAM D Trace description.
+     WIDTH74D    4.855 					;Aperture 74, BEAM D Object Half Width.
+     ORIENT74D   -89.505 					;Aperture 74, BEAM D Object Orientation.
+     SLITGEOM74D 1.44 -90.76 1.45 1.45 		; Aperture 74, BEAM D Object Orientation.
+     AWIDTH74D   1.461 						;Aperture 74, BEAM D Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH74D   1.426 						;Aperture 74, BEAM D Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT74D  32.155 						;Aperture 74, BEAM D Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX74D     1.53690e+04 1.42800e-18		;Aperture 74, BEAM D Flux values.
+     IGNORE74D   0  					;Aperture 74, BEAM D ignore this beam.
+  BEAM END
+  BEAM E
+     REFPIXEL74E 122.091 433.239 				;Aperture 74, BEAM E Reference Pixel.
+     CORNERS74E  -452 423 -247 424 -247 438 -452 436 		;Aperture 74, BEAM E Aperture Coordinates.
+     CURVE74E    1 1.110e+00 7.467e-03			;Aperture 74, BEAM E Trace description.
+     WIDTH74E    4.852 					;Aperture 74, BEAM E Object Half Width.
+     ORIENT74E   -89.572 					;Aperture 74, BEAM E Object Orientation.
+     SLITGEOM74E 1.44 -90.83 1.45 1.45 		; Aperture 74, BEAM E Object Orientation.
+     AWIDTH74E   1.461 						;Aperture 74, BEAM E Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH74E   1.426 						;Aperture 74, BEAM E Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT74E  32.155 						;Aperture 74, BEAM E Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX74E     1.53690e+04 1.42800e-18		;Aperture 74, BEAM E Flux values.
+     IGNORE74E   0  					;Aperture 74, BEAM E ignore this beam.
+  BEAM END
+  BEAM F
+     REFPIXEL74F 122.091 433.239 				;Aperture 74, BEAM F Reference Pixel.
+     CORNERS74F  622 431 1242 436 1242 450 622 445 		;Aperture 74, BEAM F Aperture Coordinates.
+     CURVE74F    1 6.400e-01 8.636e-03			;Aperture 74, BEAM F Trace description.
+     WIDTH74F    4.855 					;Aperture 74, BEAM F Object Half Width.
+     ORIENT74F   -89.505 					;Aperture 74, BEAM F Object Orientation.
+     SLITGEOM74F 1.44 -90.76 1.45 1.45 		; Aperture 74, BEAM F Object Orientation.
+     AWIDTH74F   1.461 						;Aperture 74, BEAM F Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH74F   1.426 						;Aperture 74, BEAM F Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT74F  32.155 						;Aperture 74, BEAM F Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX74F     1.53690e+04 1.42800e-18		;Aperture 74, BEAM F Flux values.
+     IGNORE74F   0  					;Aperture 74, BEAM F ignore this beam.
+  BEAM END
+APERTURE END
+
+APERTURE 75
+  BEAM A
+     REFPIXEL75A -55.329 1021.817 				;Aperture 75, BEAM A Reference Pixel.
+     CORNERS75A  -40 1016 140 1018 140 1028 -40 1026 		;Aperture 75, BEAM A Aperture Coordinates.
+     CURVE75A    1 -8.617e-02 8.210e-03			;Aperture 75, BEAM A Trace description.
+     WIDTH75A    2.948 					;Aperture 75, BEAM A Object Half Width.
+     ORIENT75A   -89.530 					;Aperture 75, BEAM A Object Orientation.
+     SLITGEOM75A 1.00 -89.53 1.00 1.00 		; Aperture 75, BEAM A Object Orientation.
+     AWIDTH75A   0.973 						;Aperture 75, BEAM A Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH75A   0.853 						;Aperture 75, BEAM A Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT75A  30.689 						;Aperture 75, BEAM A Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX75A     1.53690e+04 6.88160e-20		;Aperture 75, BEAM A Flux values.
+     IGNORE75A   0  					;Aperture 75, BEAM A ignore this beam.
+  BEAM END
+  BEAM B
+     REFPIXEL75B -55.329 1021.817 				;Aperture 75, BEAM B Reference Pixel.
+     CORNERS75B  -262 1016 -232 1016 -232 1026 -262 1026 		;Aperture 75, BEAM B Aperture Coordinates.
+     CURVE75B    0 -5.505e-01			;Aperture 75, BEAM B Trace description.
+     WIDTH75B    2.934 					;Aperture 75, BEAM B Object Half Width.
+     ORIENT75B   -90.000 					;Aperture 75, BEAM B Object Orientation.
+     SLITGEOM75B 1.00 -90.00 1.00 1.00 		; Aperture 75, BEAM B Object Orientation.
+     AWIDTH75B   0.973 						;Aperture 75, BEAM B Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH75B   0.853 						;Aperture 75, BEAM B Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT75B  30.689 						;Aperture 75, BEAM B Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX75B     1.53690e+04 6.88160e-20		;Aperture 75, BEAM B Flux values.
+     IGNORE75B   0  					;Aperture 75, BEAM B ignore this beam.
+  BEAM END
+  BEAM C
+     REFPIXEL75C -55.329 1021.817 				;Aperture 75, BEAM C Reference Pixel.
+     CORNERS75C  154 1017 414 1020 414 1030 154 1027 		;Aperture 75, BEAM C Aperture Coordinates.
+     CURVE75C    1 -7.214e-01 8.725e-03			;Aperture 75, BEAM C Trace description.
+     WIDTH75C    2.949 					;Aperture 75, BEAM C Object Half Width.
+     ORIENT75C   -89.500 					;Aperture 75, BEAM C Object Orientation.
+     SLITGEOM75C 1.00 -89.50 1.00 1.00 		; Aperture 75, BEAM C Object Orientation.
+     AWIDTH75C   0.973 						;Aperture 75, BEAM C Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH75C   0.853 						;Aperture 75, BEAM C Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT75C  30.689 						;Aperture 75, BEAM C Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX75C     1.53690e+04 6.88160e-20		;Aperture 75, BEAM C Flux values.
+     IGNORE75C   0  					;Aperture 75, BEAM C ignore this beam.
+  BEAM END
+  BEAM D
+     REFPIXEL75D -55.329 1021.817 				;Aperture 75, BEAM D Reference Pixel.
+     CORNERS75D  414 1020 664 1023 664 1033 414 1030 		;Aperture 75, BEAM D Aperture Coordinates.
+     CURVE75D    1 -2.604e+00 1.268e-02			;Aperture 75, BEAM D Trace description.
+     WIDTH75D    2.956 					;Aperture 75, BEAM D Object Half Width.
+     ORIENT75D   -89.273 					;Aperture 75, BEAM D Object Orientation.
+     SLITGEOM75D 1.00 -89.27 1.00 1.00 		; Aperture 75, BEAM D Object Orientation.
+     AWIDTH75D   0.973 						;Aperture 75, BEAM D Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH75D   0.853 						;Aperture 75, BEAM D Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT75D  30.689 						;Aperture 75, BEAM D Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX75D     1.53690e+04 6.88160e-20		;Aperture 75, BEAM D Flux values.
+     IGNORE75D   0  					;Aperture 75, BEAM D ignore this beam.
+  BEAM END
+  BEAM E
+     REFPIXEL75E -55.329 1021.817 				;Aperture 75, BEAM E Reference Pixel.
+     CORNERS75E  -630 1016 -425 1015 -425 1025 -630 1026 		;Aperture 75, BEAM E Aperture Coordinates.
+     CURVE75E    1 -2.112e+00 -2.715e-03			;Aperture 75, BEAM E Trace description.
+     WIDTH75E    2.929 					;Aperture 75, BEAM E Object Half Width.
+     ORIENT75E   -90.156 					;Aperture 75, BEAM E Object Orientation.
+     SLITGEOM75E 1.00 -90.16 1.00 1.00 		; Aperture 75, BEAM E Object Orientation.
+     AWIDTH75E   0.973 						;Aperture 75, BEAM E Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH75E   0.853 						;Aperture 75, BEAM E Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT75E  30.689 						;Aperture 75, BEAM E Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX75E     1.53690e+04 6.88160e-20		;Aperture 75, BEAM E Flux values.
+     IGNORE75E   0  					;Aperture 75, BEAM E ignore this beam.
+  BEAM END
+  BEAM F
+     REFPIXEL75F -55.329 1021.817 				;Aperture 75, BEAM F Reference Pixel.
+     CORNERS75F  444 1020 1064 1028 1064 1038 444 1030 		;Aperture 75, BEAM F Aperture Coordinates.
+     CURVE75F    1 -2.604e+00 1.268e-02			;Aperture 75, BEAM F Trace description.
+     WIDTH75F    2.956 					;Aperture 75, BEAM F Object Half Width.
+     ORIENT75F   -89.273 					;Aperture 75, BEAM F Object Orientation.
+     SLITGEOM75F 1.00 -89.27 1.00 1.00 		; Aperture 75, BEAM F Object Orientation.
+     AWIDTH75F   0.973 						;Aperture 75, BEAM F Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH75F   0.853 						;Aperture 75, BEAM F Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT75F  30.689 						;Aperture 75, BEAM F Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX75F     1.53690e+04 6.88160e-20		;Aperture 75, BEAM F Flux values.
+     IGNORE75F   0  					;Aperture 75, BEAM F ignore this beam.
+  BEAM END
+APERTURE END
+
+APERTURE 80
+  BEAM A
+     REFPIXEL80A 334.770 565.860 				;Aperture 80, BEAM A Reference Pixel.
+     CORNERS80A  349 562 530 564 530 572 349 571 		;Aperture 80, BEAM A Aperture Coordinates.
+     CURVE80A    1 8.629e-01 9.234e-03			;Aperture 80, BEAM A Trace description.
+     WIDTH80A    2.421 					;Aperture 80, BEAM A Object Half Width.
+     ORIENT80A   -89.471 					;Aperture 80, BEAM A Object Orientation.
+     SLITGEOM80A 1.00 -89.47 1.00 1.00 		; Aperture 80, BEAM A Object Orientation.
+     AWIDTH80A   0.808 						;Aperture 80, BEAM A Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH80A   0.700 						;Aperture 80, BEAM A Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT80A  30.668 						;Aperture 80, BEAM A Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX80A     1.53690e+04 1.68178e-20		;Aperture 80, BEAM A Flux values.
+     IGNORE80A   0  					;Aperture 80, BEAM A ignore this beam.
+  BEAM END
+  BEAM B
+     REFPIXEL80B 334.770 565.860 				;Aperture 80, BEAM B Reference Pixel.
+     CORNERS80B  127 561 157 561 157 569 127 569 		;Aperture 80, BEAM B Aperture Coordinates.
+     CURVE80B    0 -4.365e-01			;Aperture 80, BEAM B Trace description.
+     WIDTH80B    2.408 					;Aperture 80, BEAM B Object Half Width.
+     ORIENT80B   -90.000 					;Aperture 80, BEAM B Object Orientation.
+     SLITGEOM80B 1.00 -90.00 1.00 1.00 		; Aperture 80, BEAM B Object Orientation.
+     AWIDTH80B   0.808 						;Aperture 80, BEAM B Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH80B   0.700 						;Aperture 80, BEAM B Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT80B  30.668 						;Aperture 80, BEAM B Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX80B     1.53690e+04 1.68178e-20		;Aperture 80, BEAM B Flux values.
+     IGNORE80B   0  					;Aperture 80, BEAM B ignore this beam.
+  BEAM END
+  BEAM C
+     REFPIXEL80C 334.770 565.860 				;Aperture 80, BEAM C Reference Pixel.
+     CORNERS80C  544 563 804 566 804 575 544 572 		;Aperture 80, BEAM C Aperture Coordinates.
+     CURVE80C    1 6.236e-01 9.088e-03			;Aperture 80, BEAM C Trace description.
+     WIDTH80C    2.421 					;Aperture 80, BEAM C Object Half Width.
+     ORIENT80C   -89.479 					;Aperture 80, BEAM C Object Orientation.
+     SLITGEOM80C 1.00 -89.48 1.00 1.00 		; Aperture 80, BEAM C Object Orientation.
+     AWIDTH80C   0.808 						;Aperture 80, BEAM C Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH80C   0.700 						;Aperture 80, BEAM C Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT80C  30.668 						;Aperture 80, BEAM C Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX80C     1.53690e+04 1.68178e-20		;Aperture 80, BEAM C Flux values.
+     IGNORE80C   2  					;Aperture 80, BEAM C ignore this beam.
+  BEAM END
+  BEAM D
+     REFPIXEL80D 334.770 565.860 				;Aperture 80, BEAM D Reference Pixel.
+     CORNERS80D  804 565 1054 568 1054 577 804 574 		;Aperture 80, BEAM D Aperture Coordinates.
+     CURVE80D    1 -9.100e-02 9.547e-03			;Aperture 80, BEAM D Trace description.
+     WIDTH80D    2.422 					;Aperture 80, BEAM D Object Half Width.
+     ORIENT80D   -89.453 					;Aperture 80, BEAM D Object Orientation.
+     SLITGEOM80D 1.00 -89.45 1.00 1.00 		; Aperture 80, BEAM D Object Orientation.
+     AWIDTH80D   0.808 						;Aperture 80, BEAM D Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH80D   0.700 						;Aperture 80, BEAM D Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT80D  30.668 						;Aperture 80, BEAM D Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX80D     1.53690e+04 1.68178e-20		;Aperture 80, BEAM D Flux values.
+     IGNORE80D   2  					;Aperture 80, BEAM D ignore this beam.
+  BEAM END
+  BEAM E
+     REFPIXEL80E 334.770 565.860 				;Aperture 80, BEAM E Reference Pixel.
+     CORNERS80E  -240 558 -35 559 -35 568 -240 567 		;Aperture 80, BEAM E Aperture Coordinates.
+     CURVE80E    1 2.863e-01 5.811e-03			;Aperture 80, BEAM E Trace description.
+     WIDTH80E    2.417 					;Aperture 80, BEAM E Object Half Width.
+     ORIENT80E   -89.667 					;Aperture 80, BEAM E Object Orientation.
+     SLITGEOM80E 1.00 -89.67 1.00 1.00 		; Aperture 80, BEAM E Object Orientation.
+     AWIDTH80E   0.808 						;Aperture 80, BEAM E Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH80E   0.700 						;Aperture 80, BEAM E Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT80E  30.668 						;Aperture 80, BEAM E Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX80E     1.53690e+04 1.68178e-20		;Aperture 80, BEAM E Flux values.
+     IGNORE80E   2  					;Aperture 80, BEAM E ignore this beam.
+  BEAM END
+  BEAM F
+     REFPIXEL80F 334.770 565.860 				;Aperture 80, BEAM F Reference Pixel.
+     CORNERS80F  834 566 1454 572 1454 580 834 574 		;Aperture 80, BEAM F Aperture Coordinates.
+     CURVE80F    1 -9.100e-02 9.547e-03			;Aperture 80, BEAM F Trace description.
+     WIDTH80F    2.422 					;Aperture 80, BEAM F Object Half Width.
+     ORIENT80F   -89.453 					;Aperture 80, BEAM F Object Orientation.
+     SLITGEOM80F 1.00 -89.45 1.00 1.00 		; Aperture 80, BEAM F Object Orientation.
+     AWIDTH80F   0.808 						;Aperture 80, BEAM F Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH80F   0.700 						;Aperture 80, BEAM F Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT80F  30.668 						;Aperture 80, BEAM F Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX80F     1.53690e+04 1.68178e-20		;Aperture 80, BEAM F Flux values.
+     IGNORE80F   2  					;Aperture 80, BEAM F ignore this beam.
+  BEAM END
+APERTURE END
+
+APERTURE 83
+  BEAM A
+     REFPIXEL83A 1016.681 679.168 				;Aperture 83, BEAM A Reference Pixel.
+     CORNERS83A  1031 676 1212 678 1212 685 1031 683 		;Aperture 83, BEAM A Aperture Coordinates.
+     CURVE83A    1 7.413e-01 1.152e-02			;Aperture 83, BEAM A Trace description.
+     WIDTH83A    1.535 					;Aperture 83, BEAM A Object Half Width.
+     ORIENT83A   -89.340 					;Aperture 83, BEAM A Object Orientation.
+     SLITGEOM83A 1.00 -89.34 1.00 1.00 		; Aperture 83, BEAM A Object Orientation.
+     AWIDTH83A   0.829 						;Aperture 83, BEAM A Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH83A   0.432 						;Aperture 83, BEAM A Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT83A  27.980 						;Aperture 83, BEAM A Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX83A     1.53690e+04 3.38321e-20		;Aperture 83, BEAM A Flux values.
+     IGNORE83A   0  					;Aperture 83, BEAM A ignore this beam.
+  BEAM END
+  BEAM B
+     REFPIXEL83B 1016.681 679.168 				;Aperture 83, BEAM B Reference Pixel.
+     CORNERS83B  809 674 839 674 839 681 809 681 		;Aperture 83, BEAM B Aperture Coordinates.
+     CURVE83B    0 -7.788e-01			;Aperture 83, BEAM B Trace description.
+     WIDTH83B    1.556 					;Aperture 83, BEAM B Object Half Width.
+     ORIENT83B   -90.000 					;Aperture 83, BEAM B Object Orientation.
+     SLITGEOM83B 1.00 -90.00 1.00 1.00 		; Aperture 83, BEAM B Object Orientation.
+     AWIDTH83B   0.829 						;Aperture 83, BEAM B Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH83B   0.432 						;Aperture 83, BEAM B Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT83B  27.980 						;Aperture 83, BEAM B Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX83B     1.53690e+04 3.38321e-20		;Aperture 83, BEAM B Flux values.
+     IGNORE83B   0  					;Aperture 83, BEAM B ignore this beam.
+  BEAM END
+  BEAM C
+     REFPIXEL83C 1016.681 679.168 				;Aperture 83, BEAM C Reference Pixel.
+     CORNERS83C  1226 678 1486 681 1486 688 1226 685 		;Aperture 83, BEAM C Aperture Coordinates.
+     CURVE83C    1 4.016e-01 1.145e-02			;Aperture 83, BEAM C Trace description.
+     WIDTH83C    1.535 					;Aperture 83, BEAM C Object Half Width.
+     ORIENT83C   -89.344 					;Aperture 83, BEAM C Object Orientation.
+     SLITGEOM83C 1.00 -89.34 1.00 1.00 		; Aperture 83, BEAM C Object Orientation.
+     AWIDTH83C   0.829 						;Aperture 83, BEAM C Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH83C   0.432 						;Aperture 83, BEAM C Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT83C  27.980 						;Aperture 83, BEAM C Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX83C     1.53690e+04 3.38321e-20		;Aperture 83, BEAM C Flux values.
+     IGNORE83C   0  					;Aperture 83, BEAM C ignore this beam.
+  BEAM END
+  BEAM D
+     REFPIXEL83D 1016.681 679.168 				;Aperture 83, BEAM D Reference Pixel.
+     CORNERS83D  1486 679 1736 682 1736 689 1486 686 		;Aperture 83, BEAM D Aperture Coordinates.
+     CURVE83D    1 -7.156e-01 1.033e-02			;Aperture 83, BEAM D Trace description.
+     WIDTH83D    1.534 					;Aperture 83, BEAM D Object Half Width.
+     ORIENT83D   -89.408 					;Aperture 83, BEAM D Object Orientation.
+     SLITGEOM83D 1.00 -89.41 1.00 1.00 		; Aperture 83, BEAM D Object Orientation.
+     AWIDTH83D   0.829 						;Aperture 83, BEAM D Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH83D   0.432 						;Aperture 83, BEAM D Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT83D  27.980 						;Aperture 83, BEAM D Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX83D     1.53690e+04 3.38321e-20		;Aperture 83, BEAM D Flux values.
+     IGNORE83D   0  					;Aperture 83, BEAM D ignore this beam.
+  BEAM END
+  BEAM E
+     REFPIXEL83E 1016.681 679.168 				;Aperture 83, BEAM E Reference Pixel.
+     CORNERS83E  441 671 646 673 646 680 441 679 		;Aperture 83, BEAM E Aperture Coordinates.
+     CURVE83E    1 -3.630e-01 5.734e-03			;Aperture 83, BEAM E Trace description.
+     WIDTH83E    1.539 					;Aperture 83, BEAM E Object Half Width.
+     ORIENT83E   -89.671 					;Aperture 83, BEAM E Object Orientation.
+     SLITGEOM83E 1.00 -89.67 1.00 1.00 		; Aperture 83, BEAM E Object Orientation.
+     AWIDTH83E   0.829 						;Aperture 83, BEAM E Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH83E   0.432 						;Aperture 83, BEAM E Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT83E  27.980 						;Aperture 83, BEAM E Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX83E     1.53690e+04 3.38321e-20		;Aperture 83, BEAM E Flux values.
+     IGNORE83E   2  					;Aperture 83, BEAM E ignore this beam.
+  BEAM END
+  BEAM F
+     REFPIXEL83F 1016.681 679.168 				;Aperture 83, BEAM F Reference Pixel.
+     CORNERS83F  1516 680 2136 686 2136 693 1516 687 		;Aperture 83, BEAM F Aperture Coordinates.
+     CURVE83F    1 -7.156e-01 1.033e-02			;Aperture 83, BEAM F Trace description.
+     WIDTH83F    1.534 					;Aperture 83, BEAM F Object Half Width.
+     ORIENT83F   -89.408 					;Aperture 83, BEAM F Object Orientation.
+     SLITGEOM83F 1.00 -89.41 1.00 1.00 		; Aperture 83, BEAM F Object Orientation.
+     AWIDTH83F   0.829 						;Aperture 83, BEAM F Maximum Object Half Width.(SExtractor A_IMAGE)
+     BWIDTH83F   0.432 						;Aperture 83, BEAM F Minimum Object Half Width.(SExtractir B_IMAGE)
+     AORIENT83F  27.980 						;Aperture 83, BEAM F Orientation of Object.(SExtractor THETA_IMAGE)
+     FLUX83F     1.53690e+04 3.38321e-20		;Aperture 83, BEAM F Flux values.
+     IGNORE83F   0  					;Aperture 83, BEAM F ignore this beam.
+  BEAM END
+APERTURE END
+
